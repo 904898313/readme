@@ -15,7 +15,7 @@
 - 熟练使用`Nextjs、SSR、SSG`,服务器组件、客户端组件
 - 熟练使用`Tailwindcss、Shadcn-ui、Echarts`等前端库，快速完成页面交互效果
 - 熟练使用`ethers.js、wagmi`Web3技术栈，链上数据交互，支持多链钱包连接
-- - 熟练使用`Dayjs、Axios、Nvm`等前端工具，快速完成业务内容开发
+- 熟练使用`Dayjs、Axios、Nvm`等前端工具，快速完成业务内容开发
 - 了解`Node.js、Express、Nestjs`等后端技术，熟悉前后端分离开发模式
 - 具有与安卓,iOS原生开发交互`(混合开发模式 webview)`、UI高要求,访问量高的项目开发经验。
 - 有AI辅助编程经验,关注AI技术发展

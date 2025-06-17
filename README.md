@@ -10,13 +10,12 @@
 
 ## 专业技能
 
-- 熟练使用`HTML、CSS、JavaScript`等前端技术，能够独立完成Web前端开发
-- 熟练使用`TypeScript`,`类型体操、泛型、接口、枚举`等特性
-- 熟练使用`Vue2.x、Vue3.x、Vuex、Vue-Router、Element-ui`等技术栈
-- 熟练使用`React、React-query、Zustand、Antd`等技术栈,对React组件化开发、常见优化手段有一定了解和实战
-- 熟悉`Nextjs、SSR、SSG`,服务器组件、客户端组件
-- 熟悉`Tailwindcss、Shadcn-ui、Echarts`等前端库，快速完成页面交互效果
-- 熟练使用`Dayjs、Axios、Nvm`等前端工具，快速完成业务内容开发
+- 熟练使用`HTML、CSS、JavaScript、TypeScript`等前端技术，能够独立完成Web前端开发
+- 熟练使用`Vue、React、React-query、Zustand、Antd`等技术栈
+- 熟练使用`Nextjs、SSR、SSG`,服务器组件、客户端组件
+- 熟练使用`Tailwindcss、Shadcn-ui、Echarts`等前端库，快速完成页面交互效果
+- 熟练使用`ethers.js、wagmi`Web3技术栈，链上数据交互，支持多链钱包连接
+- - 熟练使用`Dayjs、Axios、Nvm`等前端工具，快速完成业务内容开发
 - 了解`Node.js、Express、Nestjs`等后端技术，熟悉前后端分离开发模式
 - 具有与安卓,iOS原生开发交互`(混合开发模式 webview)`、UI高要求,访问量高的项目开发经验。
 - 有AI辅助编程经验,关注AI技术发展
